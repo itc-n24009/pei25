@@ -4,4 +4,6 @@ for p in phrase:
     if p not in list_p:
         list_p.append(p)
 print(len(phrase) - len(list_p))
-print("".join(list_p))
+
+for i in list_p:
+    print(i,end="")
