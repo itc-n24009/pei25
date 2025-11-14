@@ -1,5 +1,5 @@
 x = 10
-b = pow(x, 3)
-c = pow(x, 2)
-print(c)
+b = pow(x, 2)
+c = pow(x, 3)
 print(b)
+print(c)
