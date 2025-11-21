@@ -37,4 +37,4 @@ print(total)
 name_kadai = '小山田花子'
 month_k = (list_a[0] + list_a[5]) // 2 
 day_k = (list_a[2] + list_a[4]) // 2 + 10 
-print(f'課題:{name_kadai}の誕生日:{month_k}月{day_k}日')
+print(f'{name_kadai}の誕生日:{month_k}月{day_k}日')
